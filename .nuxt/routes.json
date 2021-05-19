@@ -1,0 +1,58 @@
+[
+  {
+    "name": "archives",
+    "path": "/archives",
+    "component": "W:\\\\apprentice\\\\apprentice\\\\New folder\\\\redesign005\\\\pages\\\\archives.vue",
+    "chunkName": "pages/archives",
+    "_name": "_b5068f5c"
+  },
+  {
+    "name": "complain",
+    "path": "/complain",
+    "component": "W:\\\\apprentice\\\\apprentice\\\\New folder\\\\redesign005\\\\pages\\\\complain.vue",
+    "chunkName": "pages/complain",
+    "_name": "_0a81654a"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "W:\\\\apprentice\\\\apprentice\\\\New folder\\\\redesign005\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_f26da962"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "W:\\\\apprentice\\\\apprentice\\\\New folder\\\\redesign005\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_7ce53850"
+  },
+  {
+    "name": "menu",
+    "path": "/menu",
+    "component": "W:\\\\apprentice\\\\apprentice\\\\New folder\\\\redesign005\\\\pages\\\\menu.vue",
+    "chunkName": "pages/menu",
+    "_name": "_a89e8980"
+  },
+  {
+    "name": "qrcode",
+    "path": "/qrcode",
+    "component": "W:\\\\apprentice\\\\apprentice\\\\New folder\\\\redesign005\\\\pages\\\\qrcode.vue",
+    "chunkName": "pages/qrcode",
+    "_name": "_fbdba8a2"
+  },
+  {
+    "name": "reviews",
+    "path": "/reviews",
+    "component": "W:\\\\apprentice\\\\apprentice\\\\New folder\\\\redesign005\\\\pages\\\\reviews.vue",
+    "chunkName": "pages/reviews",
+    "_name": "_5318f46c"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "W:\\\\apprentice\\\\apprentice\\\\New folder\\\\redesign005\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_10347e7e"
+  }
+]

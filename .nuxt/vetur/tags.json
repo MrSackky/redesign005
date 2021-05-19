@@ -1,0 +1,29 @@
+{
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "Imageslide": {
+    "description": "Auto imported from components/Imageslide.vue"
+  },
+  "Imglink": {
+    "description": "Auto imported from components/Imglink.vue"
+  },
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "NewEven": {
+    "description": "Auto imported from components/NewEven.vue"
+  },
+  "NewsRelease": {
+    "description": "Auto imported from components/NewsRelease.vue"
+  },
+  "PicBorad": {
+    "description": "Auto imported from components/PicBorad.vue"
+  },
+  "PurchaseNews": {
+    "description": "Auto imported from components/PurchaseNews.vue"
+  },
+  "VuetifyLogo": {
+    "description": "Auto imported from components/VuetifyLogo.vue"
+  }
+}
