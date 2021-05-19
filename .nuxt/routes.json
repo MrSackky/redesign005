@@ -2,57 +2,57 @@
   {
     "name": "archives",
     "path": "/archives",
-    "component": "W:\\\\apprentice\\\\apprentice\\\\New folder\\\\redesign005\\\\pages\\\\archives.vue",
+    "component": "C:\\\\Users\\\\Sackky\\\\Desktop\\\\redesign005\\\\pages\\\\archives.vue",
     "chunkName": "pages/archives",
-    "_name": "_b5068f5c"
+    "_name": "_a372d174"
   },
   {
     "name": "complain",
     "path": "/complain",
-    "component": "W:\\\\apprentice\\\\apprentice\\\\New folder\\\\redesign005\\\\pages\\\\complain.vue",
+    "component": "C:\\\\Users\\\\Sackky\\\\Desktop\\\\redesign005\\\\pages\\\\complain.vue",
     "chunkName": "pages/complain",
-    "_name": "_0a81654a"
+    "_name": "_134b443e"
   },
   {
     "name": "contact",
     "path": "/contact",
-    "component": "W:\\\\apprentice\\\\apprentice\\\\New folder\\\\redesign005\\\\pages\\\\contact.vue",
+    "component": "C:\\\\Users\\\\Sackky\\\\Desktop\\\\redesign005\\\\pages\\\\contact.vue",
     "chunkName": "pages/contact",
-    "_name": "_f26da962"
+    "_name": "_768d9ddb"
   },
   {
     "name": "login",
     "path": "/login",
-    "component": "W:\\\\apprentice\\\\apprentice\\\\New folder\\\\redesign005\\\\pages\\\\login.vue",
+    "component": "C:\\\\Users\\\\Sackky\\\\Desktop\\\\redesign005\\\\pages\\\\login.vue",
     "chunkName": "pages/login",
-    "_name": "_7ce53850"
+    "_name": "_18a50964"
   },
   {
     "name": "menu",
     "path": "/menu",
-    "component": "W:\\\\apprentice\\\\apprentice\\\\New folder\\\\redesign005\\\\pages\\\\menu.vue",
+    "component": "C:\\\\Users\\\\Sackky\\\\Desktop\\\\redesign005\\\\pages\\\\menu.vue",
     "chunkName": "pages/menu",
-    "_name": "_a89e8980"
+    "_name": "_60ef9798"
   },
   {
     "name": "qrcode",
     "path": "/qrcode",
-    "component": "W:\\\\apprentice\\\\apprentice\\\\New folder\\\\redesign005\\\\pages\\\\qrcode.vue",
+    "component": "C:\\\\Users\\\\Sackky\\\\Desktop\\\\redesign005\\\\pages\\\\qrcode.vue",
     "chunkName": "pages/qrcode",
-    "_name": "_fbdba8a2"
+    "_name": "_0def37a3"
   },
   {
     "name": "reviews",
     "path": "/reviews",
-    "component": "W:\\\\apprentice\\\\apprentice\\\\New folder\\\\redesign005\\\\pages\\\\reviews.vue",
+    "component": "C:\\\\Users\\\\Sackky\\\\Desktop\\\\redesign005\\\\pages\\\\reviews.vue",
     "chunkName": "pages/reviews",
-    "_name": "_5318f46c"
+    "_name": "_73900f54"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "W:\\\\apprentice\\\\apprentice\\\\New folder\\\\redesign005\\\\pages\\\\index.vue",
+    "component": "C:\\\\Users\\\\Sackky\\\\Desktop\\\\redesign005\\\\pages\\\\index.vue",
     "chunkName": "pages/index",
-    "_name": "_10347e7e"
+    "_name": "_4efd664d"
   }
 ]

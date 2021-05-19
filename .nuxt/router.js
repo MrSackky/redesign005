@@ -4,14 +4,14 @@ import { normalizeURL, decode } from 'ufo'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
-const _b5068f5c = () => interopDefault(import('..\\pages\\archives.vue' /* webpackChunkName: "pages/archives" */))
-const _0a81654a = () => interopDefault(import('..\\pages\\complain.vue' /* webpackChunkName: "pages/complain" */))
-const _f26da962 = () => interopDefault(import('..\\pages\\contact.vue' /* webpackChunkName: "pages/contact" */))
-const _7ce53850 = () => interopDefault(import('..\\pages\\login.vue' /* webpackChunkName: "pages/login" */))
-const _a89e8980 = () => interopDefault(import('..\\pages\\menu.vue' /* webpackChunkName: "pages/menu" */))
-const _fbdba8a2 = () => interopDefault(import('..\\pages\\qrcode.vue' /* webpackChunkName: "pages/qrcode" */))
-const _5318f46c = () => interopDefault(import('..\\pages\\reviews.vue' /* webpackChunkName: "pages/reviews" */))
-const _10347e7e = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
+const _a372d174 = () => interopDefault(import('..\\pages\\archives.vue' /* webpackChunkName: "pages/archives" */))
+const _134b443e = () => interopDefault(import('..\\pages\\complain.vue' /* webpackChunkName: "pages/complain" */))
+const _768d9ddb = () => interopDefault(import('..\\pages\\contact.vue' /* webpackChunkName: "pages/contact" */))
+const _18a50964 = () => interopDefault(import('..\\pages\\login.vue' /* webpackChunkName: "pages/login" */))
+const _60ef9798 = () => interopDefault(import('..\\pages\\menu.vue' /* webpackChunkName: "pages/menu" */))
+const _0def37a3 = () => interopDefault(import('..\\pages\\qrcode.vue' /* webpackChunkName: "pages/qrcode" */))
+const _73900f54 = () => interopDefault(import('..\\pages\\reviews.vue' /* webpackChunkName: "pages/reviews" */))
+const _4efd664d = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
 
 const emptyFn = () => {}
 
@@ -26,35 +26,35 @@ export const routerOptions = {
 
   routes: [{
     path: "/archives",
-    component: _b5068f5c,
+    component: _a372d174,
     name: "archives"
   }, {
     path: "/complain",
-    component: _0a81654a,
+    component: _134b443e,
     name: "complain"
   }, {
     path: "/contact",
-    component: _f26da962,
+    component: _768d9ddb,
     name: "contact"
   }, {
     path: "/login",
-    component: _7ce53850,
+    component: _18a50964,
     name: "login"
   }, {
     path: "/menu",
-    component: _a89e8980,
+    component: _60ef9798,
     name: "menu"
   }, {
     path: "/qrcode",
-    component: _fbdba8a2,
+    component: _0def37a3,
     name: "qrcode"
   }, {
     path: "/reviews",
-    component: _5318f46c,
+    component: _73900f54,
     name: "reviews"
   }, {
     path: "/",
-    component: _10347e7e,
+    component: _4efd664d,
     name: "index"
   }],
 
